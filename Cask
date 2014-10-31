@@ -4,5 +4,7 @@
 
 (development
  (depends-on "ert")
+ (depends-on "ecukes")
+ (depends-on "espuds")
  (depends-on "flycheck")
  (depends-on "flycheck-cask"))
